@@ -1,0 +1,70 @@
+body, ul, li, p {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1.1rem;
+    font-family: Arial;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    justify-content: start;
+    padding: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    margin-left: 10px;
+}
+
+
+    
+.menu li a {
+    display: block;
+    padding: 10px;
+}
+
+.menu-2 {
+    display: flex;
+}
+
+.menu-2 li {
+    margin-left: 10px;
+}
+    
+.menu li a {
+    display: block;
+    padding: 10px;
+}
+
+.top {
+    display: ;
+}
+
+.dogs {
+    width: 550px;
+    border: solid;
+    padding: 80px;
+}
+
+.dogs img {
+    width: 80px;
+    display: inline-block;
+    border-radius: 50%;
+    border: 2px solid rgb(16, 128, 104);
+}
+
+.formulario {
+    width: 550px;
+    padding: 80px;
+    border: solid;
+}
